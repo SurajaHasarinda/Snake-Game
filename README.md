@@ -25,3 +25,5 @@ To run the Snake game locally, follow these steps:
 
 ## Screenshots
 
+![Gameplay](screenshots/gameplay.png)
+![Game Over](screenshots/gameover.png)
