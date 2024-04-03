@@ -15,7 +15,7 @@ To run the Snake game locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `Game.java` file.
+3. Compile and run the `SnakeGame.java` file.
 
 ## Controls
 
